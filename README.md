@@ -19,3 +19,29 @@ Langkah-langkah untuk menginstal proyek di lingkungan lokal:
 1. Clone repositori ini:
    ```bash
    git clone https://github.com/nndalfii/RTOS_1.git
+
+
+## Prasyarat
+Sebelum memulai instalasi, pastikan bahwa Anda memiliki:
+- STM32CubeIDE versi 1.16.0
+- Board STM32 STM32F407VGT6
+- Mini Debugger ST-Link
+- Layar OLED 0.96 I2C
+- Kabel USB untuk koneksi ke board STM32
+
+## Dependensi
+Proyek ini membutuhkan beberapa library berikut:
+- STM32Cube HAL Library
+- FreeRTOS
+- SSD1306 OLED Display Library
+
+## Struktur Proyek (Optional)
+Berikut adalah struktur direktori utama dari proyek ini:
+```bash
+RTOS_1/
+│
+├── Core/                 # Kode sumber utama (src)
+├── Drivers/              # Driver STM32 dan OLED
+├── Middlewares/          # FreeRTOS
+└── README.md             # File README ini
+
