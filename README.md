@@ -11,6 +11,12 @@ Proyek ini menggunakan mikrokontroler STM32 yang mengimplementasikan pembacaan n
 ## Cara Kerja
 - Nilai ADC dibaca setiap periode tertentu dan ditampilkan di layar OLED.
 - Ketika tombol fisik ditekan, STM32 akan mengirimkan pesan melalui UART, misalnya `Button1 pressed`, dan LED akan menyala sebagai indikasi.
+
+## Dokumentasi
+
+https://github.com/user-attachments/assets/2c0f89cb-707d-487e-9373-0a7e4081494d
+
+
   
 ## Instalasi
 
