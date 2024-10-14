@@ -15,9 +15,7 @@ Proyek ini menggunakan mikrokontroler STM32 yang mengimplementasikan pembacaan n
 ## Dokumentasi
 
 
-https://github.com/user-attachments/assets/b3839a5d-2a49-4e77-9e25-81e92754a14d
-
-
+https://github.com/user-attachments/assets/35380982-1fb8-49ba-9519-e36eba556928
 
 
   
